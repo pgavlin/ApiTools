@@ -31,6 +31,9 @@
         "System.Xml.XmlDocument": "4.0.0-beta-*",
         "Microsoft.Win32.Primitives": "4.0.0-beta-*",
         "Microsoft.Composition": "1.0.30",
-        "Microsoft.Cci": "4.0.0-beta-23109",
-    }
+        "Microsoft.Cci": "4.0.0-beta-23109"
+    },
+	"frameworks": {
+		"dnxcore50": {}
+	}
 }

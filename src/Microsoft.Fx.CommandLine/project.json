@@ -31,6 +31,9 @@
         "System.Threading.Thread": "4.0.0-beta-*",
         "System.Xml.XDocument": "4.0.10-beta-*",
         "System.Xml.XmlDocument": "4.0.0-beta-*",
-        "Microsoft.Win32.Primitives": "4.0.0-beta-*",
-    }
+        "Microsoft.Win32.Primitives": "4.0.0-beta-*"
+    },
+	"frameworks": {
+		"dnxcore50": {}
+	}
 }
